@@ -1,16 +1,78 @@
-# imc_calculator
+# ⚖️ Calculatrice IMC
 
-A new Flutter project.
+## 📌 Description
+Application mobile simple permettant de calculer l’**Indice de Masse Corporelle (IMC)** à partir du poids et de la taille de l’utilisateur.  
+Ce projet est le **troisième** du défi personnel **100 projets en 2026**, axé sur l’apprentissage progressif par la pratique.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🎯 Objectifs du projet
+- Mettre en place un formulaire simple
+- Implémenter une logique de calcul fiable
+- Gérer la validation des entrées utilisateur
+- Afficher des résultats de manière claire et lisible
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📱 Plateforme
+- Mobile (Android)
+- Développée avec **Flutter**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Technologies utilisées
+- Flutter
+- Gestion d’état avec `setState`
+- Aucun backend
+- Aucun stockage de données
+
+---
+
+## ✅ Fonctionnalités
+- Saisie du poids (kg)
+- Saisie de la taille (cm)
+- Calcul automatique de l’IMC
+- Affichage de la valeur IMC
+- Indication de la catégorie correspondante :
+  - Maigreur
+  - Corpulence normale
+  - Surpoids
+  - Obésité
+- Réinitialisation du formulaire
+
+---
+
+## 🎨 Design & UX
+- Interface moderne et neutre
+- Design sobre orienté utilité
+- Un seul écran pour une utilisation rapide
+
+---
+
+## ⚠️ Avertissement
+Cette application fournit un calcul indicatif de l’IMC et **ne remplace pas un avis médical professionnel**.
+
+---
+
+## 📸 Captures d’écran
+_Ajouter des captures de l’application ici_
+
+---
+
+## 🧠 Ce que j’ai appris
+- Gestion de formulaires en Flutter
+- Validation des données utilisateur
+- Logique conditionnelle pour l’affichage des résultats
+- Structuration simple d’une application mobile
+
+---
+
+## 🔮 Améliorations possibles
+- Historique des calculs
+- Graphique d’évolution
+- Conseils personnalisés (non médicaux)
+
+---
+
+## 🏁 Statut du projet
+✅ **Projet terminé**
