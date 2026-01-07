@@ -75,3 +75,5 @@ Cette application fournit un calcul indicatif de l’IMC et **ne remplace pas un
 
 ## Statut du projet
  **Projet terminé**
+
+---
